@@ -1,2 +1,3 @@
-# Generae
+# Generate
+
 Generate pick up lines
